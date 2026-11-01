@@ -1,0 +1,2 @@
+; C:\MinGW\bin\dlltool.exe --export-all-symbols -z libmysql.def C:\Program Files\MySQL\MySQL Server 8.0\lib\libmysql.dll
+EXPORTS
