@@ -148,4 +148,4 @@ B.Tech Computer Science and Engineering Student
 
 ⭐ If you find this project interesting, consider giving this repository a star!
 
-**Developed as an academic DBMS project.**
+
