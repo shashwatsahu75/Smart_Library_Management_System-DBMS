@@ -140,7 +140,7 @@ Through this project, I explored:
 
 **Shashwat Sahu**
 
-B.Tech Computer Science and Engineering Student
+B.Tech Computer Science and Engineering Student at SRM University AP
 
 - GitHub: [@shashwatsahu75](https://github.com/shashwatsahu75)
 
